@@ -13,6 +13,6 @@ extra-source-files:
 library: 
   source-dirs: src
   dependencies:
-    - base
+    - base < 5
     - haskell-src-exts
     - Hoed
